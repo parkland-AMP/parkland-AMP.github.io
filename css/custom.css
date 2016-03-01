@@ -59,6 +59,8 @@ a .img-responsive {
 #container.pull-right {
 	text-align: center;
 }
+h3 {
+}
 
 @media screen and (min-width:767px){
 }
