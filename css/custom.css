@@ -15,6 +15,7 @@ a img {
 	margin-top: -12px;
 }
 .container {
+	padding-top: 2px;
 }
 .nav.navbar-nav .active a {
 	background-color: #FFFFFF;
