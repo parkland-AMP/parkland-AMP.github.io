@@ -10,6 +10,7 @@ hr {
 }
 .btn.btn-success {
 	margin-right: 80px;
+	background-color: #FDD129;
 }
 a img {
 	margin-top: -12px;
@@ -54,6 +55,7 @@ a .img-responsive {
 	margin-left: auto;
 }
 .navbar.navbar-default.navbar-static-top {
+	background-color: #FFFFFF;
 }
 #footer .container .footer-block {
 }
@@ -64,6 +66,22 @@ h3 {
 }
 h1 {
 	font-size: 40px;
+}
+.navbar-form.navbar-right a .btn.btn-success {
+	background-color: #FDD129;
+}
+.nav.navbar-nav li a:hover {
+	background-color: transparent;
+}
+.nav.navbar-nav .active a {
+}
+#navbar .nav.navbar-nav a:hover {
+	background-color: transparent;
+}
+.col-md-8 form {
+}
+a:focus, a:hover a {
+	color: #FFFFFF;
 }
 
 @media screen and (min-width:767px){
