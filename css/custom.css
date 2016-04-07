@@ -55,9 +55,10 @@ a .img-responsive {
 	margin-left: auto;
 }
 .navbar.navbar-default.navbar-static-top {
-	background-color: #FFFFFF;
+	background-color: #4D4D4F;
 }
 #footer .container .footer-block {
+	text-align: center;
 }
 #container.pull-right {
 	text-align: center;
@@ -77,11 +78,12 @@ h1 {
 }
 #navbar .nav.navbar-nav a:hover {
 	background-color: transparent;
+	color: #FFFFFF;
 }
 .col-md-8 form {
 }
 a:focus, a:hover a {
-	color: #FFFFFF;
+	color: #4d4d4d;
 }
 
 @media screen and (min-width:767px){
