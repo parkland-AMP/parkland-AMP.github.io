@@ -85,6 +85,9 @@ h1 {
 a:focus, a:hover a {
 	color: #4d4d4d;
 }
+.row .col-md-3 img {
+	margin-top: 10px;
+}
 
 @media screen and (min-width:767px){
 }
