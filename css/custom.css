@@ -74,19 +74,23 @@ h1 {
 .nav.navbar-nav li a:hover {
 	background-color: transparent;
 }
-.nav.navbar-nav .active a {
-}
+
 #navbar .nav.navbar-nav a:hover {
 	background-color: transparent;
 	color: #FFFFFF;
 }
-.col-md-8 form {
-}
+
 a:focus, a:hover a {
 	color: #4d4d4d;
 }
+ul li a {
+	color: #FFF;
+}
 .row .col-md-3 img {
 	margin-top: 10px;
+}
+.navbar-form.navbar-right a:focus.a:hover {
+	background-color: #FDD129;
 }
 
 @media screen and (min-width:767px){
