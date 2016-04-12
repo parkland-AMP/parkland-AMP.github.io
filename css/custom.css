@@ -12,8 +12,16 @@ hr {
 	margin-right: 80px;
 	background-color: #FDD129;
 }
+.btn-success {
+	background-color: #FDD129;
+	
+}
+
 a img {
 	margin-top: -12px;
+}
+nav li a {
+	color: #FFFFFF;
 }
 .container {
 	padding-top: 2px;
@@ -58,7 +66,7 @@ a .img-responsive {
 	background-color: #4D4D4F;
 }
 #footer .container .footer-block {
-	text-align: center;
+	text-align: left;
 }
 #container.pull-right {
 	text-align: center;
@@ -81,7 +89,16 @@ h1 {
 }
 
 a:focus, a:hover a {
-	color: #4d4d4d;
+	color: #FFF;
+	text-align: left;
+}
+.col-md-3 .footerNav a {
+}
+.col-md-5.nav .footerNav a {
+	color: #FFFFFF;
+}
+.footerNav.col-md-3 a:hover a.focus {
+	color: #FFFFFF;
 }
 ul li a {
 	color: #FFF;
@@ -91,6 +108,8 @@ ul li a {
 }
 .navbar-form.navbar-right a:focus.a:hover {
 	background-color: #FDD129;
+}
+.row .col-md-5.nav ul {
 }
 
 @media screen and (min-width:767px){
