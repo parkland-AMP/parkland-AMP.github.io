@@ -114,6 +114,9 @@ ul li a {
 .row .col-md-3 .footerNav a:hover {
 	color: #FFFFFF;
 }
+.navbar-form.navbar-right a {
+	color: #4D4D4F;
+}
 
 @media screen and (min-width:767px){
 }
