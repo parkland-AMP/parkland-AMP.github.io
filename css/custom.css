@@ -136,3 +136,7 @@ ul li a {
 .theme-showcase .navbar .container {
   width: auto;
 }
+
+@media screen and (max-width:600px){
+	.wide { display: none;}
+}
