@@ -117,6 +117,8 @@ ul li a {
 .navbar-form.navbar-right a {
 	color: #4D4D4F;
 }
+#navbar #navbar1 .navbar-form.navbar-right {
+}
 
 @media screen and (min-width:767px){
 }
