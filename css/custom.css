@@ -105,6 +105,7 @@ ul li a {
 }
 .row .col-md-3 img {
 	margin-top: 10px;
+	float: left;
 }
 .navbar-form.navbar-right a:focus.a:hover {
 	background-color: #FDD129;
@@ -118,6 +119,9 @@ ul li a {
 	color: #4D4D4F;
 }
 #navbar #navbar1 .navbar-form.navbar-right {
+}
+.row .col-md-3 #footerNav {
+	text-align: right;
 }
 
 @media screen and (min-width:767px){
