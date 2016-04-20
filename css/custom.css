@@ -123,6 +123,12 @@ ul li a {
 .row .col-md-3 #footerNav {
 	text-align: right;
 }
+.row .col-md-7 .who {
+	font-size: 25px;
+}
+.about {
+	font-size: 28px;
+}
 
 @media screen and (min-width:767px){
 }
