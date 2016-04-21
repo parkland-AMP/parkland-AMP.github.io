@@ -151,4 +151,5 @@ ul li a {
 
 @media screen and (max-width:600px){
 	.wide { display: none;}
+	.col-lg-4 {display: none;}
 }
