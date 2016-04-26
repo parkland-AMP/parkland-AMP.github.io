@@ -19,6 +19,7 @@ hr {
 
 a img {
 	margin-top: -12px;
+	margin-bottom: 10px;
 }
 nav li a {
 	color: #FFFFFF;
@@ -43,13 +44,13 @@ a .img-responsive {
 
 #footer {
 	background-color: #4D4D4F;
-	color: white;
-	text-align: center;	/*
+	color: white;	/*
 	height: 110px;
 	bottom: 0;
 	position: absolute;
 	width: 100%;
 	*/
+	text-align: center;
 }
 
 .navbar.navbar-inverse.navbar-static-top {
@@ -131,12 +132,14 @@ ul li a {
 	padding-top: 26px;
 }
 .col-md-3 .bottomfooter #footerNav {
-	text-align: right;
 }
 .address #address  {
 }
 p {
 	text-align: left;
+}
+.row .col-sm-3 {
+	padding-top: 17px;
 }
 
 @media screen and (min-width:767px){
