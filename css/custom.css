@@ -90,7 +90,7 @@ h1 {
 
 a:focus, a:hover a {
 	text-align: left;
-	color: #4D4D4F;
+	color: #D5D5D5;
 }
 .col-md-3 .footerNav a {
 }
@@ -120,20 +120,31 @@ ul li a {
 }
 #navbar #navbar1 .navbar-form.navbar-right {
 }
-.row .col-md-3 #footerNav {
-	text-align: right;
-}
+
 .row .col-md-7 .who {
 	font-size: 25px;
 }
 .about {
 	font-size: 28px;
 }
-
-@media screen and (min-width:767px){
+.container .row.end-sec .col-lg-4 {
+	padding-top: 26px;
+}
+.col-md-3 .bottomfooter #footerNav {
+	text-align: right;
+}
+.address #address  {
+}
+p {
+	text-align: left;
 }
 
+@media screen and (min-width:767px){
+	
+}
 @media screen and (max-width:768px){
+	.wide { display: none;}
+	.col-lg-4 {display: none;}
 }
 .theme-dropdown .dropdown-menu {
   position: static;
@@ -152,4 +163,5 @@ ul li a {
 @media screen and (max-width:600px){
 	.wide { display: none;}
 	.col-lg-4 {display: none;}
+	
 }
