@@ -6,8 +6,7 @@
 header {
 	background-color: #FFFFFF;
 }
-hr {
-}
+
 .btn.btn-success {
 	margin-right: 80px;
 	background-color: #FDD129;
@@ -44,12 +43,7 @@ a .img-responsive {
 
 #footer {
 	background-color: #4D4D4F;
-	color: white;	/*
-	height: 110px;
-	bottom: 0;
-	position: absolute;
-	width: 100%;
-	*/
+	color: white;	
 	text-align: center;
 }
 
@@ -150,10 +144,8 @@ body {
 nav {
 }
 .col-sm-4.join {
-	padding-left: 125px;
 }
 .col-sm-4.about {
-	padding-right: 125px;
 }
 .col-sm-3.footerNav {
 	padding-bottom: 0px;
@@ -190,5 +182,5 @@ nav {
 @media screen and (max-width:600px){
 	.wide { display: none;}
 	.col-lg-4 {display: none;}
-	
+	.col-md-6 .nav { display: none;}
 }
