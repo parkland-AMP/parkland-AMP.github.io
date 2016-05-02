@@ -157,6 +157,9 @@ nav {
 .col-sm-3.parkland {
 	margin-top: 17px;
 }
+.col-sm-4.parkland  {
+	margin-top: 17px;
+}
 
 @media screen and (min-width:767px){
 	
