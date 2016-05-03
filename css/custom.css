@@ -79,7 +79,7 @@ h1 {
 }
 
 #navbar .nav.navbar-nav a:hover {
-	background-color: transparent;
+	background-color: #4D4D4F;
 	color: #FFFFFF;
 }
 
@@ -186,4 +186,20 @@ nav {
 	.wide { display: none;}
 	.col-lg-4 {display: none;}
 	.col-md-6 .nav { display: none;}
+}
+
+@media screen and (min-width:760px){
+	.pull-left-lg { 
+		float: left;
+	
+	}
+	
+}
+
+@media screen and (min-width:760px){
+	.pull-right-lg { 
+		float: ;
+	
+	}
+	
 }
